@@ -3,7 +3,7 @@
 Tenho 18 anos e sou estudante de Bacharelado em Ciências da Computação. Sou um desenvolvedor com experiência em várias tecnologias e linguagens de programação.
 
 <details>
-<summary>## Experiência</summary>
+<summary><h2>Experiência</h2></summary>
 
 - **HTML:** Criação de páginas web estruturadas.
 - **CSS:** Estilização de páginas web para torná-las atraentes e responsivas.
