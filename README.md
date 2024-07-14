@@ -1,6 +1,6 @@
 # Olá! Meu nome é Aquiles Duarte!
 
-Tenho 18 anos e sou estudante de Bacharelado em Ciências da Computação. Sou um desenvolvedor com experiência em várias tecnologias e linguagens de programação.
+Tenho 19 anos e sou estudante de Bacharelado em Ciências da Computação. Sou um desenvolvedor com experiência em várias tecnologias e linguagens de programação.
 
 <details>
 <summary><h2>Conhecimentos</h2></summary>
