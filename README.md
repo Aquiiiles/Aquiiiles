@@ -1,6 +1,6 @@
 # Hello, I'm Aquiles!
 
-I'm 20 years old. I'm studying Computer Science and I love it.
+I'm 20 years old. I'm studying Computer Science and currently working at Liferay.
 
 <details>
 <summary><strong>💡 Knowledges</strong></summary>
