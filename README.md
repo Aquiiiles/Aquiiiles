@@ -13,7 +13,7 @@ I'm 20 years old. I'm studying Computer Science, and currently working at Lifera
 
 ## 📬 Contact
 
-- **Email:** aquilesvelox@gmail.com  
+- **Email:** aquiles.kds@gmail.com  
 - **Instagram:** [@aquiiiles](https://www.instagram.com/aquiiiles/)  
 - **LinkedIn:** [aquiles-duarte](https://www.linkedin.com/in/aquiles-duarte)
 
